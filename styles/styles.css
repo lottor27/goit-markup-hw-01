@@ -278,9 +278,12 @@ font-style: normal;
     font-weight: 400;
     font-size: 14px;
     line-height: 24px;
-    color: #8E949C;
+    color: #ffffff;
 }
-
+.Contacts-list{
+    
+    list-style: none;
+}
 /* tech-skills-list */
 .tech-skills-list{
     color: #FFFFFF;
